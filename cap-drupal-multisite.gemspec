@@ -3,10 +3,10 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |spec|
   spec.name        = "cap-drupal-multisite"
-  spec.version     = "0.3.0"
-  spec.authors     = ["Yosh de Vos"]
-  spec.email       = ["yosh@elzorro.nl"]
-  spec.homepage    = "https://github.com/yoshz/cap-drupal-multisite"
+  spec.version     = "0.3.1"
+  spec.authors     = ["Insiders Online"]
+  spec.email       = ["beheer@insiders.nl"]
+  spec.homepage    = "https://github.com/insiders/cap-drupal-multisite"
   spec.summary     = "A collection of capistrano tasks for deploying drupal sites"
   spec.description = "A collection of capistrano tasks for deploying drupal sites"
   spec.license     = 'MIT'
